@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TensorFlowLite-Image-Classification</string>
+    <string name="btn_1">Take Picture</string>
+    <string name="btn_2">Choose From Library</string>
+
+    <string name="classified">Classified as:</string>
+    <string name="prediction">Confidence Level:</string>
+</resources>
